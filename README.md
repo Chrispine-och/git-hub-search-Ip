@@ -1,5 +1,5 @@
 # GitSearch
-* This project was generated with Angular CLI version 8.2.2.
+* This project was generated with Angular CLI version 11.0.1.
 # Author
 [chrispine ochieng] ( https://github.com/Chrispine-och)
 
